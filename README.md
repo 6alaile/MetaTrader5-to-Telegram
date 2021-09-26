@@ -1,1 +1,1 @@
-# MetaTrader5-to-Telegram
+# MetaTrader5 to Telegram (Expert Advisor)
